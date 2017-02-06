@@ -19,3 +19,5 @@ $ npm install karma-jasmine karma-chrome-launcher --save-dev
 - My video:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HDAgjEFW3WY/0.jpg)](http://www.youtube.com/watch?v=HDAgjEFW3WY)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/miXWjRUgZ-8/0.jpg)](http://www.youtube.com/watch?v=miXWjRUgZ-8)
