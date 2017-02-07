@@ -27,22 +27,16 @@ $SETCOLOR_NORMAL
 read item
 case "$item" in
     y|Y) echo "Ввели «y», продолжаем..."
-#echo -ne 'Копирование...\r'
 cp --recursive /home/raymond/dev/snake_game/src/* /home/raymond/dev/snake_game_pg/
 indicatorOkFail
-#echo -ne 'Переход в папку /home/raymond/dev/snake_game_pg/ ...\r'
 cd /home/raymond/dev/snake_game_pg/
 indicatorOkFail
-#echo -ne 'Переход на ветку  gh-pages ...\r'
 git checkout gh-pages
 indicatorOkFail
-#echo -ne 'Добавляем изменения ...\r'
 git add .
 indicatorOkFail
-#echo -ne 'Делаем коммит ...\r'
 git commit -m "Automatic"
 indicatorOkFail
-#echo -ne 'Отправка на сервер GitHub ...\r'
 git push origin gh-pages
 indicatorOkFail
 echo -ne '\n'
