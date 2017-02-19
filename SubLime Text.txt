@@ -2,9 +2,17 @@
 
 Настройка редактора
 
-1) Установим Package Control 
+1) Установим Package Control
    https://packagecontrol.io/installation
-2) Настроим Preferencse - Settings
+2) Настроим форматирование HTML, CSS, JavaScript
+   https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify
+3) Настроим плагин который поможет форматировать JS
+   a) Нажимаем Ctrl+Shift+P, печатаем
+      "Package Control: Install Package"
+      выбираем или нажимаем [Enter]
+   b) Печатаем "JsFormat" и устанавливаем
+   https://github.com/jdc0589/JsFormat
+4) Настроим Preferencse - Settings
 
 {
   "always_show_minimap_viewport": true,
