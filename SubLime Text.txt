@@ -51,6 +51,14 @@
   "trim_trailing_white_space_on_save": true
 }
 
+5) Расширенное контестное меню.(Sidebar Enhancements)
+
+https://packagecontrol.io/packages/SideBarEnhancements
+Установка
+Ctrl + Shift + P
+Package Control : Install Package
+Sidebar Enhancements
+
 Плюшки
  View - Layout- <> Позволяет выбрать количество паналерей просмотра
  Ctrl + P Быстрий поиск файлов
