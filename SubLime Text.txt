@@ -62,3 +62,7 @@ Sidebar Enhancements
 Плюшки
  View - Layout- <> Позволяет выбрать количество паналерей просмотра
  Ctrl + P Быстрий поиск файлов
+ 
+ Для JSX файлов 
+ 
+If you are using Sublime Package Control you can press command+shift+p. Then select Package Control: Install Package and choose Simple JSX.
