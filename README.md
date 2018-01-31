@@ -13,6 +13,6 @@ $ code &
 
 ## Install tslint
 
-![00](https://github.com/RaymondProduction/helper/img/00.png)
-![01](https://github.com/RaymondProduction/helper/img/01.png)
-![02](https://github.com/RaymondProduction/helper/img/03.png)
+![00](https://github.com/RaymondProduction/helper/raw/master/img/00.png)
+![01](https://github.com/RaymondProduction/helper/raw/master/img/01.png)
+![02](https://github.com/RaymondProduction/helper/raw/master/img/03.png)
