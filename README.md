@@ -37,13 +37,13 @@ $ sudo service mongod start
 $ mongo
 ```
 
-or **Robomongo (Robo 3T)
+or **Robomongo (Robo 3T)**
 
 [![N|Solid](https://robomongo.org/static/robomongo-128x128-129df2f1.png)](https://robomongo.org/)
 
 ## Use data files
 
-If you move your database files then use **mongod**. So, create your folder for database files. (for example 'db').
+If you want to move your database files then use mongod. So, create your folder for database files. (for example 'db'). 
 And use command:
 ```sh
 $ sudo mongod --dbpath db
