@@ -71,3 +71,7 @@ EXPOSE 80
 
 CMD node server.js
 ```
+
+## Video about create Docker container with use Dockerfile
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-z2BbaXfYiw/0.jpg)](https://youtu.be/-z2BbaXfYiw)
