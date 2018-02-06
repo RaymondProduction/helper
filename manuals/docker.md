@@ -123,4 +123,15 @@ $ docker tag <image> <User name in Docker Hub>/<image>
 $ docker push <User name in Docker Hub>/<image>
 ```
 
+### Delete all images and containers
+
+Bash script for delete
+```sh
+#!/bin/bash
+# Delete all containers
+docker rm $(docker ps -a -q)
+# Delete all images
+docker rmi $(docker images -q)
+```
+
 [Docker Web Server](https://github.com/RaymondProduction/helper/blob/master/manuals/docker-webserver.md)
