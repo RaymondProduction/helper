@@ -32,3 +32,22 @@ Now, is working MongoDB server which save your data in the folder 'db'.
 
 And you can copy folder with database files. You will look in the file **/etc/mongod.conf** (dbPath: /var/lib/mongodb). 
 Copy this folder, and you can delete folders  **diagnostic.data** and **journal** in this folder
+
+### Some commands of MongoDB
+
+* version() - show version MongoDB
+
+* show dbs - show all databases
+
+* use <name> - use database by name (use my_base)
+
+* show collections
+
+* db.<collection name>.find() - show contain collection (
+db.people.find())
+
+* db.<collection name>.drop() - remove collection (db.users.drop())
+
+* db.<collection name>.remove({}) - remove contain of collection db.users.remove({})
+
+* help - information about the commands
