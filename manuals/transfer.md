@@ -17,3 +17,5 @@ rm -rf old-repository.git
 ```
 
 You can transfer to any server
+
+[Original](https://gist.github.com/gaech/8355739)
