@@ -18,3 +18,20 @@ Returns a new coin address for receiving payments. If [account] is specified pay
 $ xxx-cli getnewaddress [account]
 ydUKN4Joz3FqywiwyzU1DwxQEZRrUSmszD
 ```
+
+#### Get balance
+
+If [account] is not specified, returns the server's total available balance.
+If [account] is specified, returns the balance in the account.
+
+```sh
+$ xxx-cli getbalance [account]
+```
+
+#### Get info
+
+Returns an object containing various state info.
+
+```sh
+$ xxx-cli getinfo
+```
