@@ -9,7 +9,7 @@ $ sudo apt-add-repository 'deb https://apt.dockerproject.org/repo ubuntu-xenial 
 $ sudo apt-get update
 $ sudo apt-get install -y docker-engine
 ```
-
+V   
 After install we need to make sure that demon of _Docker_ is active.
 
 ```sh
@@ -79,6 +79,10 @@ _So, **2ae0afd0277e** is identification of container - CONTAINER ID_
 CONTAINER ID  you can see so
 ```sh
 $ docker ps
+```
+Show with use format
+```bash
+$ sudo docker ps --format "table {{.ID}}\t{{.Names}}\t{{.Image}}"
 ```
 
 ### Save change in the image
