@@ -2,8 +2,8 @@
 
 Little guides
 
-* [About Git]
-    * [How to connect a ssh-key](https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
+* [About Git](https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
+    * [How to connect a ssh-key]1(https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
 * [Visual Studio Code](https://github.com/RaymondProduction/helper/blob/master/manuals/vsc.md)
 * DB
     * [MySql](https://github.com/RaymondProduction/helper/blob/master/manuals/mysql.md)
@@ -14,3 +14,4 @@ Little guides
     * [Docker Web Server](https://github.com/RaymondProduction/helper/blob/master/manuals/docker-webserver.md)
     * [About Dokerfile](https://github.com/RaymondProduction/helper/blob/master/manuals/docker-about-dockerfile.md)
 * [How use crypto wallets as bitcoin](https://github.com/RaymondProduction/helper/blob/master/manuals/crypto-wallets.md)
+* [Nvidia driver for Ubuntu](https://github.com/RaymondProduction/helper/blob/master/manuals/nvidia-install.md)
