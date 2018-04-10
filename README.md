@@ -3,7 +3,7 @@
 Little guides
 
 * [About Git](https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
-    * [How to connect a ssh-key]1(https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
+    * [How to connect a ssh-key](https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
 * [Visual Studio Code](https://github.com/RaymondProduction/helper/blob/master/manuals/vsc.md)
 * DB
     * [MySql](https://github.com/RaymondProduction/helper/blob/master/manuals/mysql.md)
