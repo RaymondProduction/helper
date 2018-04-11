@@ -14,3 +14,5 @@ Little guides
     * [Docker Web Server](https://github.com/RaymondProduction/helper/blob/master/manuals/docker-webserver.md)
     * [About Dokerfile](https://github.com/RaymondProduction/helper/blob/master/manuals/docker-about-dockerfile.md)
 * [How use crypto wallets as bitcoin](https://github.com/RaymondProduction/helper/blob/master/manuals/crypto-wallets.md)
+
+* [Linux some commands for my work](https://github.com/RaymondProduction/helper/blob/master/manuals/linux.md)
