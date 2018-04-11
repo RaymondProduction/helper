@@ -2,7 +2,7 @@
 
 Little guides
 
-* [About Git]
+* [About Git](https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
     * [How to connect a ssh-key](https://github.com/RaymondProduction/helper/blob/master/manuals/git-ssh.md)
 * [Visual Studio Code](https://github.com/RaymondProduction/helper/blob/master/manuals/vsc.md)
 * DB
@@ -14,5 +14,6 @@ Little guides
     * [Docker Web Server](https://github.com/RaymondProduction/helper/blob/master/manuals/docker-webserver.md)
     * [About Dokerfile](https://github.com/RaymondProduction/helper/blob/master/manuals/docker-about-dockerfile.md)
 * [How use crypto wallets as bitcoin](https://github.com/RaymondProduction/helper/blob/master/manuals/crypto-wallets.md)
-
 * [Linux some commands for my work](https://github.com/RaymondProduction/helper/blob/master/manuals/linux.md)
+* [Nvidia driver for Ubuntu](https://github.com/RaymondProduction/helper/blob/master/manuals/nvidia-install.md)
+
