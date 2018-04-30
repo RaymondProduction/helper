@@ -17,4 +17,5 @@ Little guides
 * [Linux some commands for my work](https://github.com/RaymondProduction/helper/blob/master/manuals/linux.md)
     * [Create unit for systemd](https://github.com/RaymondProduction/helper/blob/master/manuals/systemd.md)
 * [Nvidia driver for Ubuntu](https://github.com/RaymondProduction/helper/blob/master/manuals/nvidia-install.md)
+* [Zabbix install with Nginx for Ubuntu](https://github.com/RaymondProduction/helper/blob/master/manuals/zabbix-install.md)
 
