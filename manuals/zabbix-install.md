@@ -84,7 +84,7 @@ server {
         # Add index.php to the list if you are using PHP
         index index.php index.html index.htm index.nginx-debian.html;
 
-        server_name 94.247.131.234;
+        server_name 127.0.0.1;
         location / {
                 # First attempt to serve request as file, then
                 # as directory, then fall back to displaying a 404.
