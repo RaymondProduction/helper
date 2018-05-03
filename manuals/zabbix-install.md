@@ -155,6 +155,12 @@ max_input_time = 300
 ```
 And another parameters
 
+After that
+
+```bash
+service php7.0-fpm restart
+```
+
 #### Configurate Zabbix agent
 
 ```bash
