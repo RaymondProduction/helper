@@ -23,7 +23,7 @@ echo "b=$b"
 ```
 
 ### Function
-
+Function which get JSON data. And it use two parametrs
 ```bash
 generate_post_data()
 {
@@ -36,4 +36,10 @@ cat <<EOF
 }
 EOF
 }
+```
+
+using function
+
+```bash
+echo "$(generate_post_data test 2)"
 ```
