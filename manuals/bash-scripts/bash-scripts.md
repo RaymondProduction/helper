@@ -43,3 +43,31 @@ using function
 ```bash
 echo "$(generate_post_data test 2)"
 ```
+
+### Cycle
+
+
+```bash
+for ((i=<start>; i<=<final>; i++))
+do
+<script in cycle>
+done
+```
+
+**Example**
+```bash
+cycle=5
+
+for (( i=1; i <= cycle; i++ ))
+do
+
+curl --request POST \
+  --url $url \
+  --user $email:$token \
+  --header 'Accept: application/json' \
+  --header 'Content-Type: application/json' \
+let "progress = ($i*100/$cycle)"
+echo "cycle  # $i $progress%"
+done
+```
+
