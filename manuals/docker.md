@@ -108,6 +108,12 @@ Show last cintainer
 $ docker ps -l
 ```
 
+### Logs of containers
+
+```sh
+$ docker logs --follow <CONTAINER_NAME or CONTAINER_ID>
+```
+
 ### Stopping container
 
 ```sh
