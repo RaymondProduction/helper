@@ -114,6 +114,12 @@ $ docker ps -l
 $ docker logs --follow <CONTAINER_NAME or CONTAINER_ID>
 ```
 
+Show last lines of log with follow
+
+```sh
+docker logs --follow --tail <Number of lines to show from the end of the logs> <CONTAINER_NAME or CONTAINER_ID>
+```
+
 ### Stopping container
 
 ```sh
