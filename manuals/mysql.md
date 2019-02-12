@@ -54,3 +54,7 @@ Type user password
     ```mysql
     SHOW DATABASES;
     ```
+* Use data base
+    ```mysql
+     USE <date base>;
+    ```
